@@ -30,14 +30,12 @@ The analysis combines **SQL queries** for data extraction with **Python** for st
 ## Example Output
 
 ### Visualization – Average Order Value per Sales Territory
-*(Example from the project)*  
-![Example Chart](docs/example_plot.png)
+## Visualization – Average Order Value per Sales Territory
 
-### Styled Comparison Table
-| Territory      | Avg Order Value (USD) | 95% CI (USD)         | Orders |
-|----------------|-----------------------|----------------------|--------|
-| Northwest      | 8,540.12               | [8,100.50; 8,980.00] |  122   |
-| Southeast      | 4,320.45               | [4,100.20; 4,540.70] |  154   |
+Below is an example visualization from the project:
+
+![Average Order Value Chart](images/average_order_value.png)
+
 
 ---
 
