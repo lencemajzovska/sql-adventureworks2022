@@ -29,12 +29,12 @@ The analysis combines **SQL queries** for data extraction with **Python** for st
 
 ## Example Output
 
-### Visualization – Average Order Value per Sales Territory
 ## Visualization – Average Order Value per Sales Territory
 
-Below is an example visualization from the project:
+Below is an example visualization generated from the analysis:
 
-![Average Order Value Chart](images/average_order_value.png)
+![Average Order Value per Sales Territory](images/average_order_value.png)
+
 
 
 ---
