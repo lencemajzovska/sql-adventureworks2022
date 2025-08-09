@@ -23,7 +23,14 @@ The analysis combines **SQL queries** for data extraction with **Python** for st
 - **SQL + Python integration** for flexible analysis  
 - **Statistical summaries** using NumPy & SciPy  
 - **Visual insights** with clear bar charts and data tables  
-- **Well-documented notebook** with comments explaining each step  
+- **Well-documented notebook** with comments explaining each step
+
+- ## Features
+
+- **SQL + Python** workflow for efficient analysis  
+- Statistical calculations with **NumPy** and **SciPy**  
+- Data visualization using **Seaborn** and **Matplotlib**  
+- Styled summary tables for clear presentation in **Jupyter Notebook**  
 
 ---
 
@@ -50,3 +57,32 @@ git clone https://github.com/lencemajzovska/sql-adventureworks2022.git
 Developer
 Lence Majzovska
 Data Science Student, EC Utbildning 2025
+
+# SQL AdventureWorks2022 – Data Analysis  
+
+A data analysis project using the **AdventureWorks2022** SQL Server sample database from Microsoft.  
+The project combines **SQL** for data retrieval and **Python** for statistical analysis and visualization.  
+
+---
+
+## Functionality
+
+- Connects to AdventureWorks2022 using **SQLAlchemy**  
+- Retrieves and processes sales order data by territory  
+- Calculates:  
+  - Average order value  
+  - Number of orders  
+  - 95% confidence intervals  
+- Compares top- and bottom-performing territories  
+
+---
+
+
+
+---
+
+## Developer
+
+Lence Majzovska  
+Data Science Student, EC Utbildning 2025
+
