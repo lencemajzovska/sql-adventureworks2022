@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+.env
+.venv
+env/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Datafiler (om du inte vill pusha rådata)
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.json
+*.xml
+*.sqlite
+*.db
+
+# OS-filer
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
