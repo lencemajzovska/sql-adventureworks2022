@@ -1,26 +1,52 @@
 # SQL AdventureWorks2022 – Data Analysis & Visualization
 
-This project analyzes the **AdventureWorks2022** database using **SQL** and **Python**.  
-It combines **SQL queries** for data extraction with **Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn)** for statistical summaries and visualizations.
+A project that explores and analyzes the **AdventureWorks2022** SQL Server database.  
+The analysis combines **SQL queries** for data extraction with **Python** for statistical calculations and visualizations.
 
 ---
 
-## Project Overview
-The main objectives of this project are:
-- Retrieve and analyze sales data from the AdventureWorks2022 database
-- Calculate **average order value** per sales territory
-- Compute **95% confidence intervals (CI)** for mean order values
-- Compare **top- and bottom-performing territories**
+## Functionality
+
+- Connects to the AdventureWorks2022 database using **SQLAlchemy**
+- Extracts sales data grouped by sales territories
+- Calculates:
+  - **Average order value**
+  - **95% confidence intervals (CI)**
+  - **Comparison between top- and bottom-performing territories**
+- Creates visualizations with **Seaborn** and **Matplotlib**
+- Presents results in **interactive styled tables** in Jupyter Notebook
 
 ---
 
-## 🛠Tools & Technologies
-- **SQLAlchemy** – Database connection & SQL execution
-- **Pandas** – Data manipulation and aggregation
-- **NumPy / SciPy** – Statistical analysis
-- **Matplotlib / Seaborn** – Visualization
-- **IPython** – Enhanced table formatting in Jupyter Notebook
+## Features
+
+- **SQL + Python integration** for flexible analysis  
+- **Statistical summaries** using NumPy & SciPy  
+- **Visual insights** with clear bar charts and data tables  
+- **Well-documented notebook** with comments explaining each step  
 
 ---
 
-## Repository Structure
+## Example Output
+
+### Visualization – Average Order Value per Sales Territory
+*(Example from the project)*  
+![Example Chart](docs/example_plot.png)
+
+### Styled Comparison Table
+| Territory      | Avg Order Value (USD) | 95% CI (USD)         | Orders |
+|----------------|-----------------------|----------------------|--------|
+| Northwest      | 8,540.12               | [8,100.50; 8,980.00] |  122   |
+| Southeast      | 4,320.45               | [4,100.20; 4,540.70] |  154   |
+
+---
+
+## Installation & Usage
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/lencemajzovska/sql-adventureworks2022.git
+
+Developer
+Lence Majzovska
+Data Science Student, EC Utbildning 2025
