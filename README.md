@@ -5,7 +5,7 @@ The project combines **SQL** for precise data extraction with **Python** for sta
 
 ---
 
-## 📊 Project Overview  
+## Project Overview  
 
 This analysis focuses on **sales performance across territories**.  
 Key steps include:  
@@ -25,7 +25,7 @@ Key steps include:
 
 ---
 
-## 🛠️ Tech Stack  
+## Tools & Technologies  
 
 - **SQL** – SQL Server, SQLAlchemy  
 - **Python** – Pandas, NumPy, SciPy  
@@ -34,7 +34,7 @@ Key steps include:
 
 ---
 
-## 🔍 Key Features  
+## Key Features  
 
 ✅ **Seamless SQL + Python workflow** for efficient, reproducible analysis  
 ✅ **Statistical insights** with confidence intervals for better decision-making  
@@ -43,7 +43,8 @@ Key steps include:
 
 ---
 
-## 👩‍💻 Author  
+## Author  
+
 
 **Lence Majzovska**  
 *Data Science Student @ EC Utbildning 2025*  
