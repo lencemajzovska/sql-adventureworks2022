@@ -1,4 +1,4 @@
-# SQL AdventureWorks2022 – Data Analysis & Visualization
+# SQL – Data Analysis & Visualization
 
 An end-to-end **data analysis project** using the fictional **AdventureWorks2022** SQL Server database.
 The project combines **SQL** for precise data extraction with **Python** for statistical analysis and visualization — all presented interactively in Jupyter Notebook.
@@ -42,7 +42,6 @@ Key steps include:
 
 ✅ **Seamless SQL + Python workflow** for efficient, reproducible analysis
 
-
 ✅ **Statistical insights** with confidence intervals for better decision-making 
 
 ✅ **Clear visualizations** highlighting sales trends and territory performance
@@ -81,7 +80,6 @@ Then open the .ipynb file in your browser to explore the analysis
 ## Author
 
 **Lence Majzovska**
-
 *Data Science Student @ EC Utbildning 2025*
 
 ---
