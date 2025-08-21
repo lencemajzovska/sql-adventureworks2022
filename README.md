@@ -1,4 +1,4 @@
-# SQL – Data Analysis & Visualization of Sales Performance
+# Data Analysis & Visualization of Sales Performance
 
 An end-to-end **data analysis project** using the fictional **AdventureWorks2022** SQL Server database.
 The project combines **SQL** for precise data extraction with **Python** for statistical analysis and visualization — all presented interactively in Jupyter Notebook.
