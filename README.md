@@ -37,9 +37,9 @@ Key steps include:
 ## Key Features
 
 ✅ **Seamless SQL + Python workflow** for efficient, reproducible analysis <br>
-✅ **Statistical insights** with confidence intervals for better decision-making
-✅ **Clear visualizations** highlighting sales trends and territory performance
-✅ **Professional presentation** with styled tables and graphs
+✅ **Statistical insights** with confidence intervals for better decision-making <br>
+✅ **Clear visualizations** highlighting sales trends and territory performance <br>
+✅ **Professional presentation** with styled tables and graphs <br>
 
 ---
 
