@@ -11,9 +11,9 @@ This analysis focuses on **sales performance across territories**.
 Key steps include:
 
 1. **Database Connection**
-   - Uses **SQLAlchemy** to connect to AdventureWorks2022 (SQL Server).
+- Uses **SQLAlchemy** to connect to AdventureWorks2022 (SQL Server).
 2. **Data Extraction (SQL)**
-   - Queries sales data grouped by territories.
+- Queries sales data grouped by territories.
 3. **Statistical Analysis (Python)**
    - Calculates **average order values**.
    - Computes **95% confidence intervals**.
@@ -44,8 +44,6 @@ Key steps include:
 ---
 
 ## Installation
-
-# Installation
 
 ```bash
 # 1. Clone the repository
