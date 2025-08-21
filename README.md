@@ -10,7 +10,7 @@ The project combines **SQL** for precise data extraction with **Python** for sta
 This analysis focuses on **sales performance across territories**.
 Key steps include:
 
-1. **Database Connection**
+**1. Database Connection**
 - Uses **SQLAlchemy** to connect to AdventureWorks2022 (SQL Server).
   
 **2. Data Extraction (SQL)**
