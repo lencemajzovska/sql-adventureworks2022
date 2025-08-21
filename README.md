@@ -80,6 +80,7 @@ Then open the .ipynb file in your browser to explore the analysis
 ## Author
 
 **Lence Majzovska**
+
 *Data Science Student @ EC Utbildning 2025*
 
 ---
