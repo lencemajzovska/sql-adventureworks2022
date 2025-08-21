@@ -80,6 +80,7 @@ jupyter notebook
 ## Author
 
 **Lence Majzovska**
+
 *Data Science Student @ EC Utbildning 2025*
 
 ---
