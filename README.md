@@ -7,29 +7,6 @@ The project combines **SQL** for precise data extraction with **Python** for sta
 
 ## Project Overview
 
-This analysis focuses on **sales performance across territories**.
-Key steps include:
-
-**1. Database Connection**
-- Uses **SQLAlchemy** to connect to AdventureWorks2022 (SQL Server).
-  
-**2. Data Extraction (SQL)**
-- Queries sales data grouped by territories.
-
-**3. Statistical Analysis (Python)**
-- Calculates **average order values**.
-- Computes **95% confidence intervals**.
-- Compares top- and bottom-performing territories.
-
-**4. Data Visualization**
-- Creates clear and professional plots using **Seaborn** and **Matplotlib**.
-
-**5. Interactive Presentation**
-- Displays results in styled tables for an engaging view in **Jupyter Notebook**.
-
-
-## Project Overview
-
 ### 1. Database Connection  
 - SQLAlchemy used to connect to the AdventureWorks2022 SQL Server database.  
 
@@ -46,7 +23,6 @@ Key steps include:
 
 ### 5. Interactive Presentation  
 - Styled tables and Jupyter Notebook interactivity for an engaging presentation.  
-
 
 ---
 
