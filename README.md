@@ -37,13 +37,10 @@ The project combines **SQL** for precise data extraction with **Python** for sta
 
 ## Key Features
 
-✅ **Seamless SQL + Python workflow** for efficient, reproducible analysis
-
-✅ **Statistical insights** with confidence intervals for better decision-making 
-
-✅ **Clear visualizations** highlighting sales trends and territory performance
-
-✅ **Professional presentation** with styled tables and graphs
+- **Seamless SQL + Python workflow** for efficient, reproducible analysis
+- **Statistical insights** with confidence intervals for better decision-making 
+- **Clear visualizations** highlighting sales trends and territory performance
+- **Professional presentation** with styled tables and graphs
 
 ---
 
