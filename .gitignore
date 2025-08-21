@@ -29,3 +29,6 @@ Thumbs.db
 
 # VS Code
 .vscode/
+
+# Ignorera skoluppgifter
+sql_teori.ipynb
