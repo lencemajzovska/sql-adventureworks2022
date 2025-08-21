@@ -12,15 +12,15 @@ Key steps include:
 
 **1. Database Connection**
 - Uses **SQLAlchemy** to connect to AdventureWorks2022 (SQL Server).
-2. **Data Extraction (SQL)**
+**2. Data Extraction (SQL)**
 - Queries sales data grouped by territories.
-3. **Statistical Analysis (Python)**
+**3. Statistical Analysis (Python)**
 - Calculates **average order values**.
 - Computes **95% confidence intervals**.
 - Compares top- and bottom-performing territories.
-4. **Data Visualization**
+**4. Data Visualization**
 - Creates clear and professional plots using **Seaborn** and **Matplotlib**.
-5. **Interactive Presentation**
+**5. Interactive Presentation**
 - Displays results in styled tables for an engaging view in **Jupyter Notebook**.
 
 ---
