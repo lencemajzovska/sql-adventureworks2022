@@ -1,4 +1,4 @@
-# SQL – Data Analysis & Visualization
+# SQL – Data Analysis & Visualization of Sales Performance
 
 An end-to-end **data analysis project** using the fictional **AdventureWorks2022** SQL Server database.
 The project combines **SQL** for precise data extraction with **Python** for statistical analysis and visualization — all presented interactively in Jupyter Notebook.
@@ -26,6 +26,27 @@ Key steps include:
 
 **5. Interactive Presentation**
 - Displays results in styled tables for an engaging view in **Jupyter Notebook**.
+
+
+## Project Overview
+
+### 1. Database Connection  
+- SQLAlchemy used to connect to the AdventureWorks2022 SQL Server database.  
+
+### 2. Data Extraction (SQL)  
+- Queried sales data grouped by territories for comparative analysis.  
+
+### 3. Statistical Analysis (Python)  
+- Calculated average order values.  
+- Computed 95% confidence intervals.  
+- Compared top- and bottom-performing territories.  
+
+### 4. Data Visualization  
+- Created clear and professional plots using Seaborn and Matplotlib.  
+
+### 5. Interactive Presentation  
+- Styled tables and Jupyter Notebook interactivity for an engaging presentation.  
+
 
 ---
 
